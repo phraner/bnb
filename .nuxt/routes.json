@@ -1,8 +1,9 @@
 [
   {
-    "name": "",
-    "path": "",
-    "component": "/home/idegen/code/nuxt/bnb/node_modules/@nuxt/vue-app/template/pages/index.vue",
-    "_name": "_5d755f5b"
+    "name": "index",
+    "path": "/",
+    "component": "/home/idegen/code/nuxt/bnb/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1bb860aa"
   }
 ]
